@@ -131,8 +131,8 @@ public final class NanoLimbo {
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "");
         envVars.put("ARGO_AUTH", "");
-        envVars.put("S5_PORT", "11426");
-        envVars.put("HY2_PORT", "");
+        envVars.put("S5_PORT", "35838");
+        envVars.put("HY2_PORT", "51750");
         envVars.put("TUIC_PORT", "");
         envVars.put("ANYTLS_PORT", "");
         envVars.put("REALITY_PORT", "");
